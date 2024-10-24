@@ -28,7 +28,6 @@ dependencies:
   flutter_callkit_incoming_timer: ^1.0.3+8
   firebase_core: ^2.9.0
   firebase_messaging: ^14.4.0
-  device_info_plus: ^11.1.0
   wakelock: ^0.6.2
   shared_preferences: ^2.1.0
   eraser: ^2.0.1
